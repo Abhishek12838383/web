@@ -1,0 +1,38 @@
+.plan h2{
+    margin-left:40vw;
+    font-size:40px;
+    line-height:0;
+}
+.plan h3{
+    margin-left:36vw;
+    font-size:40px;
+}
+
+.plan p{
+    margin-left:35vw;
+    font-size:16px;
+    font-weight:500;
+   color:#a6a6a6;
+}
+.plan-btn{
+    margin-left:40vw;
+    margin-top:20px;
+    display:flex;
+    align-items:center;
+justify-content:center;
+    gap:10px;
+    height:60px;
+    width:250px;
+    background-color:white;
+    border-radius:10px;
+}
+.planbtn{
+    height:40px;
+    width:120px;
+    border-radius:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:#54BD95;
+    color:white;
+}

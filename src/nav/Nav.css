@@ -1,0 +1,38 @@
+.nav{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    margin-left:130px;
+    margin-right:130px;
+    margin-top:40px;
+}
+
+.nav-links ul{
+    list-style:none;
+    display:flex;
+    align-items:center;
+    gap:40px;
+}
+.nav-links ul li{
+    font-weight:500;
+    color:#a6a6a6;
+}
+.nav-links ul li:first-child{
+    color:black;
+}
+.nav-btn{
+    display:flex;
+    align-items:center;
+gap:20px;
+}
+.login{
+    color:#a6a6a6;
+    font-weight:500;
+}
+.sign{
+    background-color:#54BD95;
+    color:white;
+    padding:10px 20px;
+    border-radius:10px;
+
+}
